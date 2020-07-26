@@ -16,6 +16,6 @@
 turbo boost switcher 
 
 1. install voltageshift to folder / Applications/ Utilities/ voltageshift/
-2. sudo visudo voltageshift for user run without root permision
+2. sudo visudo voltageshift for user to execute without root permision
 ```username ALL= NOPASSWD: /Applications/Utilities/voltageshift/voltageshift```
 have fun!
