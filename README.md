@@ -8,3 +8,14 @@
 2. sudo visudo将 voltageshift免root运行
 
 ```username ALL= NOPASSWD: /Applications/Utilities/voltageshift/voltageshift```
+
+
+
+# ENGLISH
+
+turbo boost switcher 
+
+1. install voltageshift to folder / Applications/ Utilities/ voltageshift/
+2. sudo visudo voltageshift for user run without root permision
+```username ALL= NOPASSWD: /Applications/Utilities/voltageshift/voltageshift```
+have fun!
